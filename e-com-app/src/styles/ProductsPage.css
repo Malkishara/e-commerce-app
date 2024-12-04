@@ -1,0 +1,16 @@
+.products-container {
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
